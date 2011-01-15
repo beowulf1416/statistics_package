@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * Statistics engine class
+ * @author ftomale
+ */
 class StatisticsEngine {
 	
 	/**
